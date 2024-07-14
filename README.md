@@ -1,7 +1,8 @@
-<img align="center" height="250" src="https://github.com/user-attachments/assets/78a42a39-6ae1-45ff-8f4d-523102969de4">
+<img align="center" height="250" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 <h1 align="center">Hi 👋, I'm Anshuman</h1>
 <h3 align="center">A passionate Web developer</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/05acfc4c-5931-4004-b519-8e56de72fd98">
+<!-- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🔭 I’m currently working on **my Portfolio Website**
 
