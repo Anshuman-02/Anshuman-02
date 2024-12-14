@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **my Portfolio Website**
 
-- 🌱 I’m currently learning **DSA and Node.js**
+- 🌱 I’m currently learning **DSA and React**
 
-- 👯 I’m looking to collaborate on exciting **Web Development projects.**
+- 👯 I’m looking to collaborate on exciting **Web Development projects** & exploring new ideas and technologies.
 
 - 💬 Ask me about **Java, Web Development & and emerging tech trends.**
 
